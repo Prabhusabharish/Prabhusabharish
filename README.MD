@@ -1,4 +1,4 @@
-1[logo](https://github.com/Prabhusabharish/Prabhusabharish/blob/main/Prabhusabharish.png)
+![logo](https://github.com/Prabhusabharish/Prabhusabharish/blob/main/Prabhusabharish.png)
 <h1 align="center">Hi 👋, I'm Prabhusabharish</h1>
 <h3 align="center">A passionate Data Scientst from India</h3>
 
